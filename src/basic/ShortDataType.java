@@ -9,6 +9,7 @@ public class ShortDataType {
 
 
         System.out.println(number);
+        System.out.println(number);
 
     }
 }
