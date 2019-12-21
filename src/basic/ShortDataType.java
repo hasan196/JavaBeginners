@@ -8,8 +8,9 @@ public class ShortDataType {
         Short number=3287;
 
 
+
         System.out.println(number);
-        System.out.println(number);
+
 
     }
 }

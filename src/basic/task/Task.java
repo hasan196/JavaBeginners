@@ -7,8 +7,11 @@ public class Task {
 
         int Banana=30;
         int Apple=20;
+        int Grape=50;
 
-        System.out.println (Banana+Apple);
+
+        System.out.println (Banana+Apple+Grape);
+        System.out.println (Banana+Apple+Grape);
 
     }
 
